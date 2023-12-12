@@ -53,7 +53,7 @@ IEEE-HKN recognizes excellence among peers, encourages individual growth through
 > You can read more about our society at this [link](https://www.hknpolito.org/).
 
 ## 👥 Speakers
-The theoretical parts on the Version Control System and Git presented in this Masterclass has been presented by:
+The theoretical parts on the Version Control System and Git presented in this Masterclass has been covered by:
 
 - **Marco Pascarella** (M.Sc. in Communications Engineering) has covered the introduction to the Software Version Control and the basics of Git and GitHub.
 - **Davide Arcolini** (M.Sc. in Computer Engineering) has covered the introduction to Git Branching concepts and the strategies for cooperative development and contribution to open-source projects.
