@@ -12,6 +12,9 @@ Welcome to the second 2023 Edition of the <b>HKN Masterclass</b>!
 </div>
 <p></p>
 
+> [!CAUTION]
+> This repository is entirely in **english**. We have made it on purpose. Typically, open-source projects you will contribute to need to be understood by people from around the world. It is important to know english as discussions on bugs, fixes and features will occur in english. 
+
 **"*Git: From Zero to Hero - Consigli e pratiche ottimali per lavorare in team*"** is the second 2023 Edition of the HKN Masterclass focusing on the most popular **Version Control System** adopted worldwide by companies and developer teams: **Git**. 
 
 In this hands-on workshop, you'll navigate a comprehensive simulation of the developer experience when contributing to an open-source project. Learn to master essential Git commands and leverage GitHub functionalities to open new issues, address and commit your code changes, and finalize the process by initiating pull requests to propose your valuable contributions.
