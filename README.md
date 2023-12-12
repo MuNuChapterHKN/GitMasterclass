@@ -5,6 +5,9 @@
 
 ![home](./images/home.png)
 
+> [!TIP]
+> To see the details about the workshop, see [This workshop](#this-workshop)
+
 ## 👋 Welcome!
 
 <div align="center">
@@ -57,7 +60,7 @@ The theoretical parts on the Version Control System and Git presented in this Ma
 
 ![speakers](./images/speakers.png)
 
-## How does it work?
+## This workshop
 
 This workshop will be divided into two sections:
 
