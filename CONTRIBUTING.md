@@ -5,9 +5,45 @@ In the context of Git and open-source code, a **contribution** typically refers 
 > [!TIP]
 > A **contribution** in open-source development refers to any valuable addition or modification made by collaborators to a project's source code, fostering collective improvement and innovation.
 
+## Table of Contents
+
+- [Git: From Zero to Hero - How to contribute](#git-from-zero-to-hero---how-to-contribute)
+  - [Table of Contents](#table-of-contents)
+  - [Getting Started](#getting-started)
+    - [What maintainers ask for](#what-maintainers-ask-for)
+  - [Realistic scenarios](#realistic-scenarios)
+    - [Every project is different](#every-project-is-different)
+    - [Some links to famous open-source projects](#some-links-to-famous-open-source-projects)
+  - [How to contribute to this Masterclass](#how-to-contribute-to-this-masterclass)
+    - [Explore the code](#explore-the-code)
+    - [Open a new Issue](#open-a-new-issue)
+    - [Get a copy of the project](#get-a-copy-of-the-project)
+      - [Fork the repository](#fork-the-repository)
+      - [Clone your repository](#clone-your-repository)
+    - [Fix and commit your code](#fix-and-commit-your-code)
+      - [Create a new branch](#create-a-new-branch)
+      - [Push the changes to the remote](#push-the-changes-to-the-remote)
+    - [Open a Pull Request (PR)](#open-a-pull-request-pr)
+    - [Conclusions](#conclusions)
+
+
 ## Getting Started
 
-### How to 
+Contributing to an open-source project is a matter of precision, knowledge and time. The source code you want to modify is potentially used by hundreds, or even millions of people. Therefore, you should be careful when proceeding in each step.
+
+> [!CAUTION]
+> If in doubt, read. If in doubt again, ask us. Don't do any operation that you are not sure of. Don't change code you are not require to change.
+
+### What maintainers ask for
+
+Typically, you will have knowledge on the following operations:
+
+- Where and how to report bugs.
+- Where and how to request for new features.
+- Where and how to ask for contributions on the documentation.
+- And more.
+
+In this workshop, you can find every details in the document you are just reading. Please, read it carefully.
 
 ## Realistic scenarios
 
@@ -101,7 +137,7 @@ First thing you should do now is to **open a new issue**. Navigate to `https://g
   - Alphanumeric code of the fix (e.g. `FAQ045`).
   - Name and path of the file in which the fix is proposed (e.g. `source/FAQ/Part1.md`).
   - Reason for the fix (e.g. *This function should return the sum of the values, not the difference*).
-  - Proposed changes (e.g. *By changing the `-` sign to `+` sign, I solved the issue*).
+  - Proposed changes (e.g. *By changing the `-` sign to `+` sign, I think I can solve the issue*).
 
 Below is an example of a correct opened issue:
 
@@ -268,3 +304,32 @@ git push origin issue-BUG001
 ```
 
 ### Open a Pull Request (PR)
+
+Now, the moment has come. You need to propose you changes to the maintainers! Hopefully, you have written good code and maintainers will approve you changes, allowing you to contribute to the central repository.
+
+Navigate to your forked repository on GitHub. You should see that a pop-up button appears at the top of the screen, suggesting to open a Pull Request to the original repository.
+
+![suggest-pr](./images/suggest-pr.png)
+
+Click on it, and you will be redirect to a new page in which you can review you proposal, add a title and a description for the PR.
+
+![open-pr](./images/open-pr.png)
+
+Once again, we ask you to strictly adhere to our code of conduct. Specifically:
+
+- **Title** should be in the format: `Solving issue for BUG000`, where you refer to the specific alphanumeric code of your fix.
+- **Description** is a crucial part. You want **to link the Pull Request (PR) to the corresponding issue**. In this way, if the PR is merged in the source code, the relative issue will be **automatically closed**. To do so, in the description, you can type: `Proposing solution for issue related to #`. When you type `#`, a menu will appear, allowing you to select the corresponding issue. Choose carefully. 
+
+> [!CAUTION]
+> Pull Requests that fail to link the corresponding issue will be rejected.
+
+### Conclusions
+
+Now that you have opened you PR, you should see something like:
+
+![see-pr](./images/see-pr.png)
+
+You Pull Request is currently in an `open` state, waiting for review by the maintainers (us). If we think that your proposed solution is correct, we will accept the PR and you will have made your **first contribution to an open-source project**!
+
+> [!TIP]
+> At this point, repeat the process. If you complete two PRs, you will be awarded the [**Pull Shark achievement**](https://github.com/orgs/community/discussions/20357).
