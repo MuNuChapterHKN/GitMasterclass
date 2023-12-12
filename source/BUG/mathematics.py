@@ -1,5 +1,12 @@
 import math
 
+def example_pr() -> bool: 
+    '''
+    BUG000: This is an example bug.
+    '''
+    result = False
+    return result
+
 def add_values(a: int, b: int) -> int: 
     '''
     BUG001: add_values should return the sum of the values, not the difference.
@@ -159,6 +166,16 @@ def rad_value(a: float) -> float:
 
 
 def test():
+    
+    # BUG000
+    try:
+        result = example_pr()
+        if result:
+            print("BUG000: SOLVED SUCCESSFULLY")
+        else:
+            print("BUG000: RETRY")
+    except:
+        print("BUG000: RETRY")
     
     # BUG001
     try:
