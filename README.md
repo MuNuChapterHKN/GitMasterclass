@@ -27,7 +27,7 @@ By the conclusion of this workshop:
 
 ## ⚡️ Who we are
 
-We are **HKN** 🚀.
+We are the [**Mu Nu Chapter**](https://www.hknpolito.org/) of the IEEE-HKN in Politecnico di Torino 🚀.
 
 
 <div align="center">
@@ -42,6 +42,9 @@ IEEE-HKN recognizes excellence among peers, encourages individual growth through
 - The personal and professional growth we aim for with our activities is achieved through meetings with industry professionals and our network of alumni.
 - Within the community, members manage various team-building activities aimed at ensuring a respectful, inclusive, and motivating atmosphere.
 - Our chapter is part of an international network that brings together over 200 IEEE-HKN chapters, allowing members to network.
+
+> ![NOTE]
+> You can read more about our society at this [link](https://www.hknpolito.org/).
 
 ## 👥 Speakers
 The theoretical parts on the Version Control System and Git presented in this Masterclass has been presented by:
@@ -67,7 +70,7 @@ Once the internal collaborators evaluated you issue, the same issue is assigned 
 
 Now. This may seem a bit overwhelming. Don't worry, we have created a `CONTRIBUTING.md` that explains everything you need to do with more details. Refer to it if you ever feel lost in this process.
 
-> [!NOTE]
+> [!TIP]
 > You can find the file [here](./CONTRIBUTING.md).
 
 ### Managing conflicts between collaborators
@@ -78,5 +81,5 @@ In this section of the workshop you will share your repository with your colleag
 
 Again. This may seem a bit overwhelming. Don't worry, we have created a `CONFLICT.md` that explains everything you need to do with more details. Refer to it if you ever feel lost in this process.
 
-> [!NOTE]
+> [!TIP]
 > You can find the file [here](./CONFLICT.md).
