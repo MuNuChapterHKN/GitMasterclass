@@ -4,7 +4,7 @@ def example_pr() -> bool:
     '''
     BUG000: This is an example bug.
     '''
-    result = False
+    result = True
     return result
 
 def add_values(a: int, b: int) -> int: 
