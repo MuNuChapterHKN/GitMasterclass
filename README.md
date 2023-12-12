@@ -43,7 +43,7 @@ IEEE-HKN recognizes excellence among peers, encourages individual growth through
 - Within the community, members manage various team-building activities aimed at ensuring a respectful, inclusive, and motivating atmosphere.
 - Our chapter is part of an international network that brings together over 200 IEEE-HKN chapters, allowing members to network.
 
-> ![NOTE]
+> [!NOTE]
 > You can read more about our society at this [link](https://www.hknpolito.org/).
 
 ## 👥 Speakers
