@@ -3,6 +3,8 @@
 ### FAQ001
 What is a repository in Git?
 
+In Git, a repository (often abbreviated as "repo") is a data structure that stores metadata for a set of files and/or directories as well as a history of changes made to those files
+
 ### FAQ002
 What Git command is used to clone an existing repository?
 
