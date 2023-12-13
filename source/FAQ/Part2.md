@@ -20,6 +20,7 @@ In programming, what does "debugging" mean?
 
 ### FAQ027
 What does the acronym IT stands for?
+Information Technology o Italia in base al contesto.
 
 ### FAQ028
 What does the acronym AI stands for?
