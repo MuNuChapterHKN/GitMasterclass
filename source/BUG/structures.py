@@ -98,7 +98,7 @@ def get_dict_value(dictionary: dict, key: str) -> str:
     """
     BUG073: get_dict_value should return the value associated with the key in the dictionary, not the key itself.
     """
-    result = key
+    result = dictionary[key]
     return result
 
 
