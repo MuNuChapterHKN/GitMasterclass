@@ -100,7 +100,7 @@ You may have notice that the code we propose in this workshop, does not actually
 
 Feel free to explore the code in this repository. We have provided a [`source`](./source/) repository that is the entry-point to the code you need to contribute to. Inside, we have divided the code into two directories:
 
-- [`BUG`](./source/BUG/). This folder contains, with no surprise, bugs! Everything is written in Python, as hopefully you have already completed the course of Computer Science in the first year at Politecnico di Torino. Don't worry. It does not require any specific knowledge of Python. Simple understandings of the language is ok. Inside, you will find five different Python files, each containing specific bugs, for a total of 100:
+- [`BUG`](./source/BUG/). This folder contains, with no surprise, bugs! Everything is written in Python, as hopefully you have already completed the course of Computer Science in the first year at Politecnico di Torino. Don't worry. It does not require any specific knowledge of Python. Simple understandings of the language is ok. Inside, you will find five different Python files, each containing specific bugs, for a total of 85:
   - [`mathematics.py`](./source/BUG/mathematics.py) contains bugs related to mathematical operations, such as trigonometry or arithmetic operations.
   - [`logic.py`](./source/BUG/logic.py) contains bugs related to logical thinking and rules, such as boolean operations or paradoxes.
   - [`strings.py`](./source/BUG/strings.py) contains bugs related to strings operations, such as counting characters or reversing a string.

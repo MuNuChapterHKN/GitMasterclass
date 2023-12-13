@@ -1,11 +1,55 @@
 def stalin_sort(array):
+    '''
+    BUG081
+    '''
+    # https://github.com/gustavo-depaula/stalin-sort
 
-    #TODO
     
     return array
 
 
+def inverse_factorial_sum(n: int) -> float:
+    '''
+    BUG082
+    '''
+
+    # https://www.youmath.it/forum/analisi-1/58596-serie-di-1n.html
+    # Example:
+    #           result = [1/(1!)] + [1/(2!)] + [1/(3!)] + ... + [1/(n!)]
+    #                  
+    
+    return 0
+
+
+def list_divisor(n: int) -> list:
+    '''
+    BUG083
+    '''
+    # Given an integer value `n`, return the list of its divisors 
+    # sorted increasingly.
+    
+    return []
+
+
+def gcd(a: int, b: int) -> int:
+    '''
+    BUG084
+    '''
+    # Implement the Great Common Divisor algorithm. 
+    
+    return 0
+
+
+def lcm(a: int, b: int) -> int:
+    '''
+    BUG084
+    '''
+    # Implement the Least Common Multiple algorithm. 
+    
+    return 0
+
 def test():
+    
     # BUG081
     print("BUG081: ")
     try:
@@ -20,7 +64,9 @@ def test():
 
     # BUG082
     try:
-        if result is True:
+        n = 5
+        result = inverse_factorial_sum(n)
+        if result > 1.71 and result < 1.72:
             print("BUG082: SOLVED SUCCESSFULLY")
         else:
             print("BUG082: RETRY")
@@ -29,7 +75,9 @@ def test():
 
     # BUG083
     try:
-        if result is False:
+        n = 120
+        result = list_divisor(n)
+        if result == [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 30, 40, 60, 120]:
             print("BUG083: SOLVED SUCCESSFULLY")
         else:
             print("BUG083: RETRY")
@@ -38,7 +86,10 @@ def test():
 
     # BUG044
     try:
-        if result is True:
+        a = 252
+        b = 378
+        result = gcd(a, b)
+        if result == 126:
             print("BUG084: SOLVED SUCCESSFULLY")
         else:
             print("BUG084: RETRY")
@@ -47,147 +98,17 @@ def test():
 
     # BUG045
     try:
-        if result is True:
+        a = 452
+        b = 23
+        result = lcm(a, b)
+        if result == 10396:
             print("BUG085: SOLVED SUCCESSFULLY")
         else:
             print("BUG085: RETRY")
     except:
         print("BUG085: RETRY")
 
-    # BUG046
-    try:
-        if result is True:
-            print("BUG086: SOLVED SUCCESSFULLY")
-        else:
-            print("BUG086: RETRY")
-    except:
-        print("BUG086: RETRY")
-
-    # BUG047
-    try:
-        if result is True:
-            print("BUG087: SOLVED SUCCESSFULLY")
-        else:
-            print("BUG087: RETRY")
-    except:
-        print("BUG087: RETRY")
-
-    # BUG048
-    try:
-        if result is False:
-            print("BUG088: SOLVED SUCCESSFULLY")
-        else:
-            print("BUG088: RETRY")
-    except:
-        print("BUG088: RETRY")
-
-    # BUG049
-    try:
-        if result is True:
-            print("BUG089: SOLVED SUCCESSFULLY")
-        else:
-            print("BUG089: RETRY")
-    except:
-        print("BUG089: RETRY")
-
-    # BUG050
-    try:
-        if result is True:
-            print("BUG090: SOLVED SUCCESSFULLY")
-        else:
-            print("BUG090: RETRY")
-    except:
-        print("BUG090: RETRY")
-
-    # BUG051
-    try:
-        if result is False:
-            print("BUG091: SOLVED SUCCESSFULLY")
-        else:
-            print("BUG091: RETRY")
-    except:
-        print("BUG091: RETRY")
-
-    # BUG052
-    try:
-        if result is True:
-            print("BUG092: SOLVED SUCCESSFULLY")
-        else:
-            print("BUG092: RETRY")
-    except:
-        print("BUG092: RETRY")
-
-    # BUG053
-    try:
-        if result is True:
-            print("BUG093: SOLVED SUCCESSFULLY")
-        else:
-            print("BUG093: RETRY")
-    except:
-        print("BUG093: RETRY")
-
-    # BUG054
-    try:
-        if result is True:
-            print("BUG094: SOLVED SUCCESSFULLY")
-        else:
-            print("BUG094: RETRY")
-    except:
-        print("BUG094: RETRY")
-
-    # BUG055
-    try:
-        if result is True:
-            print("BUG095: SOLVED SUCCESSFULLY")
-        else:
-            print("BUG095: RETRY")
-    except:
-        print("BUG095: RETRY")
-
-    # BUG056
-    try:
-        if result is True:
-            print("BUG096: SOLVED SUCCESSFULLY")
-        else:
-            print("BUG096: RETRY")
-    except:
-        print("BUG096: RETRY")
-
-    # BUG057
-    try:
-        if result is False:
-            print("BUG097: SOLVED SUCCESSFULLY")
-        else:
-            print("BUG097: RETRY")
-    except:
-        print("BUG097: RETRY")
-
-    # BUG058
-    try:
-        if result is True:
-            print("BUG098: SOLVED SUCCESSFULLY")
-        else:
-            print("BUG098: RETRY")
-    except:
-        print("BUG098: RETRY")
-
-    # BUG059
-    try:
-        if result is False:
-            print("BUG099: SOLVED SUCCESSFULLY")
-        else:
-            print("BUG099: RETRY")
-    except:
-        print("BUG099: RETRY")
-
-    # BUG060
-    try:
-        if result is True:
-            print("BUG100: SOLVED SUCCESSFULLY")
-        else:
-            print("BUG100: RETRY")
-    except:
-        print("BUG100: RETRY")
+    
 
 
 if __name__ == "__main__":
