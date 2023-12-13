@@ -82,7 +82,7 @@ def is_valid_triangle(side1: int, side2: int, side3: int) -> bool:
     """
     BUG051: is_valid_triangle should return True if the sides form a valid triangle, not if they don't.
     """
-    result = side1 + side2 <= side3
+    result = side1 + side2 >= side3
     return result
 
 
