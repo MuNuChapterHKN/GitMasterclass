@@ -10,6 +10,7 @@ What Git command is used to clone an existing repository? clone
 
 ### FAQ003
 What does the term "commit" mean in Git?
+The term "commit" in Git means to capture a snapshot of the project's currently staged changes.
 
 ### FAQ004
 What is the role of the "git push" command in Git?
