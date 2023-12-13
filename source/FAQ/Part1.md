@@ -14,6 +14,7 @@ What is the role of the "git push" command in Git?
 
 ### FAQ005
 How do you create a new branch in Git?
+git checkout -b "branch name"
 
 ### FAQ006
 What does the "git pull" command do in Git?
