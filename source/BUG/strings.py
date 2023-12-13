@@ -58,7 +58,7 @@ def remove_whitespace(s: str) -> str:
     """
     BUG028: remove_whitespace should remove all whitespace from the string, not just leading and trailing whitespace.
     """
-    result = s.strip()
+    result = s.replace(" ", "")
     return result
 
 
