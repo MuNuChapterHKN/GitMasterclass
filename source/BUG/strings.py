@@ -146,7 +146,7 @@ def join_strings(lst: list, delimiter: str) -> str:
     """
     BUG039: join_strings should join a list of strings using the given delimiter, not concatenate them.
     """
-    result = "".join(lst)
+    result = delimiter.join(lst) # I changed "" with delimiter
     return result
 
 
