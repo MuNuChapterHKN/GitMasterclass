@@ -114,7 +114,7 @@ def substring_after(s: str, sub: str) -> str:
     """
     BUG035: substring_after should return the substring after the first occurrence of sub, not before it.
     """
-    result = s.split(sub)[1]
+    result = s.split(sub)[1]    
     return result
 
 
@@ -327,7 +327,7 @@ def test():
         s = "hello world"
         sub = "hello"
         result = substring_after(s, sub)
-        if result == "world":
+        if result == " world":
             print("BUG035: SOLVED SUCCESSFULLY")
         else:
             print("BUG035: RETRY")
