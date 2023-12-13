@@ -139,7 +139,7 @@ def is_numeric(s: str) -> bool:
     """
     BUG038: is_numeric should check if all characters in the string are numeric, not if the entire string is numeric.
     """
-    result = s.isalpha() 
+    result = s.isnumeric()
     return result
 
 
