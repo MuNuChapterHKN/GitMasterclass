@@ -106,7 +106,7 @@ def substring_before(s: str, sub: str) -> str:
     """
     BUG034: substring_before should return the substring before the first occurrence of sub, not after it.
     """
-    result = s.split(sub)[1]
+    result = s.split(sub)[0]
     return result
 
 
