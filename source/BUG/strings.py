@@ -154,8 +154,11 @@ def title_case(s: str) -> str:
     """
     BUG040: title_case should capitalize the first letter of each word, not the entire string.
     """
-    result = s.upper()
-    return result
+    lst = [word[0].upper() + word[1:] for word in s.split()]
+    s = " ".join(lst)
+    return s
+
+                   
 
 
 def test():
