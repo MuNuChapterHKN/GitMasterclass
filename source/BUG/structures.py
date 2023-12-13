@@ -74,7 +74,7 @@ def reverse_list(lst: list) -> list:
     """
     BUG070: reverse_list should reverse the order of elements in the list, not sort it in descending order.
     """
-    lst.sort(reverse=True)
+    lst.reverse()
     return lst
 
 
