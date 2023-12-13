@@ -26,6 +26,7 @@ What does the acronym AI stands for?
 
 ### FAQ029
 What does the acronym PC stands for?
+The acronym PC stands for Personal Computer
 
 ### FAQ030
 What comes after 4G in mobile networks?
