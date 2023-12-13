@@ -129,7 +129,7 @@ def logn_value(a: float) -> float:
     '''
     BUG016: logn_value should return the natural logarithm of the value, not the logarithm in base 10.
     '''
-    result = math.log10(a)
+    result = math.log(a)
     return result
 
 
