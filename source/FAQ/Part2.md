@@ -59,3 +59,6 @@ In networking, what does "DNS" stand for?
 
 ### FAQ040
 Explain the purpose of the "if-else" statement in programming.
+if else statement allows you to create a conditional chain like this:
+if (something is true) -> do what you want 
+else -> do what you want to do if what you verified before is false 
