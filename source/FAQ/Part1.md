@@ -4,7 +4,7 @@
 What is a repository in Git?
 
 ### FAQ002
-What Git command is used to clone an existing repository?
+What Git command is used to clone an existing repository? clone
 
 ### FAQ003
 What does the term "commit" mean in Git?
