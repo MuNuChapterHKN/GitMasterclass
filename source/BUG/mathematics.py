@@ -97,7 +97,7 @@ def sin_value(a: float) -> float:
     '''
     BUG012: sin_value should return the sine of the value, not the cosine.
     '''
-    result = math.sin(a)
+    result = math.cos(a)
     return result
 
 
@@ -153,7 +153,7 @@ def deg_value(a: float) -> float:
     '''
     BUG019: deg_value should return the degree of the value, not the radiant.
     '''
-    result = math.radians(a)
+    result = math.degrees(a)
     return result
 
 
