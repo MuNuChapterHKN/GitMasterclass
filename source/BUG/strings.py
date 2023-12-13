@@ -74,7 +74,7 @@ def extract_digits(s: str) -> str:
     """
     BUG030: extract_digits should return a string containing only the digits from the input string, not convert it to int.
     """
-    result = str(s)
+    result = ''.join(char for char in s if char.isdigit())
     return result
 
 
