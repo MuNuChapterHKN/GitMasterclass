@@ -53,6 +53,7 @@ Is Git a delta-based VCS or stream-of-snapshots VCS?
 
 ### FAQ018
 Which hashing algorithm is used to store objects in Git?
+Git uses the SHA-1 hashing algorithm to store objects.
 
 ### FAQ019
 What does the `.object` folder contains in Git?
