@@ -90,7 +90,7 @@ def split_string(s: str, delimiter: str) -> list:
     """
     BUG032: split_string should split the string into a list of substrings using the given delimiter, not join them.
     """
-    result = "".join(s.split(delimiter))
+    result = s.split(delimiter)
     return result
 
 
