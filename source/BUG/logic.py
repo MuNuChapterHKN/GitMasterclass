@@ -10,7 +10,7 @@ def logical_or(a: bool, b: bool) -> bool:
     """
     BUG042: logical_or should return True if either a or b is True, not only if both of them are True.
     """
-    result = a and b
+    result = a or b
     return result
 
 
