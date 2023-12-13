@@ -50,6 +50,7 @@ Why is version control important for managing code in software development?
 
 ### FAQ037
 Define the acronyms "CPU" and "GPU" in the context of computer hardware.
+CPU means Central Processing Unit, GPU means Graphics Processing Unit.
 
 ### FAQ038
 What programming language is often associated with web development and design?
