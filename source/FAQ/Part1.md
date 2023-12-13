@@ -46,11 +46,16 @@ Explain what "staged" commits mean in Git.
 How do you undo the last commit in Git?
 
 ### FAQ016
+Name another VCS rather than Git.
 
 ### FAQ017
+Is Git a delta-based VCS or stream-of-snapshots VCS?
 
 ### FAQ018
+Which hashing algorithm is used to store objects in Git?
 
 ### FAQ019
+What does the `.object` folder contains in Git?
 
 ### FAQ020
+Who created Git?

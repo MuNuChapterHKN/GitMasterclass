@@ -25,37 +25,37 @@ What is the name of the street where the new entrance of Politecnico is?
 How much does it cost the cheapest coffee at the vending machines?
 
 ### FAQ049
-What is the number of the bus which conects Porta Nuova to Politecnico?
+What is the number of the bus which connects Porta Nuova to Politecnico?
 
 ### FAQ050
 What is the name of the park where the other location of Politecnico is?
 
 ### FAQ051
-What is the letter of the new aulas in front of Residenza Borsellino?
+What is the letter of the new rooms in front of Residenza Borsellino?
 
 ### FAQ052
-What 
+Name two famous cafes bar in Politecnico.
 
 ### FAQ053
-What
+In which year was Politecnico di Torino founded?
 
 ### FAQ054
-What
+How many students are currently enrolled in Politecnico di Torino?
 
 ### FAQ055
-What
+Who is the current Headmaster?
 
 ### FAQ056
-What
+What does CFU mean?
 
 ### FAQ057
-What
+How many CFUs are required to get a Bachelor's Degree?
 
 ### FAQ058
-What
+How many hours does a CFU correspond to?
 
 ### FAQ059
-What
+Where you can print copies in Politecnico di Torino?
 
 ### FAQ060
-What
+In which language is held the first Computer Science course in Politecnico di Torino?

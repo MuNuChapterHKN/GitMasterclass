@@ -31,30 +31,31 @@ What it the typical italian coffee?
 What is the capital of Italy?
 
 ### FAQ071
-
+In computer science, what does the acronym "URL" stand for?
 
 ### FAQ072
-
+Name the four fundamental forces in physics.
 
 ### FAQ073
-
+What is the purpose of a firewall in computer security?
 
 ### FAQ074
-
+Which programming language is often used for data analysis and machine learning?
 
 ### FAQ075
-
+What is the speed of light in a vacuum?
 
 ### FAQ076
-
+Define the term "cloud computing."
 
 ### FAQ077
-
+What is the primary function of an accelerometer in electronic devices?
 
 ### FAQ078
-
+Name two famous inventors from the field of electronics.
 
 ### FAQ079
-
+What is the difference between RAM and ROM in computer memory?
 
 ### FAQ080
+Who is credited with the discovery of penicillin?

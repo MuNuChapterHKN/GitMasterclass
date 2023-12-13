@@ -30,22 +30,32 @@ What are the main components of the von Neumann architecture?
 ### FAQ090
 How is information typically stored in computers?
 
-### FAQ091
+### FAQ091
+What was the first personal computer ever released?
 
 ### FAQ092
+Who is considered the "father of modern computer science"?
 
 ### FAQ093
+Which company developed the first graphical web browser?
 
 ### FAQ094
+What was the first programming language designed for electronic computers?
 
 ### FAQ095
+Who is known for the development of the first practical telephone?
 
 ### FAQ096
+What was the first successful mass-produced microprocessor?
 
 ### FAQ097
+Who is credited with the invention of the modern computer mouse?
 
 ### FAQ098
+What programming language is named after a French mathematician and philosopher?
 
 ### FAQ099
+What was the first computer virus to spread in the wild?
 
 ### FAQ100
+Who is often called the "father of artificial intelligence"?

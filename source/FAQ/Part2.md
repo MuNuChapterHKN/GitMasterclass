@@ -40,16 +40,22 @@ What is the measurement unit of power?
 What is the meaning of the GNSS acronym?
 
 ### FAQ034
-
+How to exit VIM?
 
 ### FAQ035
+Name three famous operating systems.
 
 ### FAQ036
+Why is version control important for managing code in software development?
 
 ### FAQ037
+Define the acronyms "CPU" and "GPU" in the context of computer hardware.
 
 ### FAQ038
+What programming language is often associated with web development and design?
 
 ### FAQ039
+In networking, what does "DNS" stand for?
 
 ### FAQ040
+Explain the purpose of the "if-else" statement in programming.
