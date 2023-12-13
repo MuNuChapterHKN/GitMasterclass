@@ -4,7 +4,7 @@ def example_pr() -> bool:
     '''
     BUG000: This is an example bug.
     '''
-    result = False
+    result = True
     return result
 
 def add_values(a: int, b: int) -> int: 
@@ -153,7 +153,7 @@ def deg_value(a: float) -> float:
     '''
     BUG019: deg_value should return the degree of the value, not the radiant.
     '''
-    result = math.radians(a)
+    result = math.degrees(a)
     return result
 
 
