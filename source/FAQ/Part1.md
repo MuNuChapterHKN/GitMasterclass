@@ -50,6 +50,7 @@ Name another VCS rather than Git.
 
 ### FAQ017
 Is Git a delta-based VCS or stream-of-snapshots VCS?
+Git is a stream-of-snapshots VCS.
 
 ### FAQ018
 Which hashing algorithm is used to store objects in Git?
