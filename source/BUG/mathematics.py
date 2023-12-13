@@ -121,7 +121,7 @@ def log10_value(a: float) -> float:
     '''
     BUG015: log10_value should return the logarithm in base 10 of the value, not the natural logarithm.
     '''
-    result = math.log(a)
+    result = math.log10(a)
     return result
 
 
