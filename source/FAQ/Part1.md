@@ -21,6 +21,8 @@ What does the "git pull" command do in Git?
 ### FAQ007
 What does "version control" mean in the context of software development?
 
+Version control, also known as source control, is the practice of tracking and managing changes to software code
+
 ### FAQ008
 What type of VCS Git is?
 
