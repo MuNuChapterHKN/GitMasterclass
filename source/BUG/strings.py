@@ -82,7 +82,7 @@ def reverse_string(s: str) -> str:
     """
     BUG031: reverse_string should reverse the characters in the string, not concatenate the reversed string.
     """
-    result = s + s[::-1]
+    result = s[::-1]
     return result
 
 
