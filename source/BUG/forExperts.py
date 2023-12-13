@@ -51,11 +51,9 @@ def lcm(a: int, b: int) -> int:
 def test():
     
     # BUG081
-    print("BUG081: ")
     try:
         array = [1, 6, 5, 7, 2, 4, 9]
-        result = stalin_sort(array) == [1, 6, 7, 9]
-        if result is False:
+        if stalin_sort(array) == [1, 6, 7, 9]:
             print("BUG081: SOLVED SUCCESSFULLY")
         else:
             print("BUG081: RETRY")
