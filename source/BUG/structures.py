@@ -90,7 +90,9 @@ def create_dictionary(keys: list, values: list) -> dict:
     """
     BUG072: create_dictionary should create a dictionary from the given keys and values, not concatenating them.
     """
-    result = keys + values
+    result = dict()
+    for i in range(0, len(keys)):
+        result[keys[i]] = values[i]
     return result
 
 
