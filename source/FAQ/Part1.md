@@ -59,3 +59,4 @@ What does the `.object` folder contains in Git?
 
 ### FAQ020
 Who created Git?
+Linus Torvalds, creator of Linux, along with others in the Linux development community, built and released Git in 2005. They undertook the project because there was a lack of free and open source version control systems that could meet their requirements for Linux kernel development.
