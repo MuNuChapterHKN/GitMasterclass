@@ -151,9 +151,7 @@ def join_strings(lst: list, delimiter: str) -> str:
 
 
 def title_case(s: str) -> str:
-    """
-    BUG040: title_case should capitalize the first letter of each word, not the entire string.
-    """
+    """FIXED"""
     lst = [word[0].upper() + word[1:] for word in s.split()]
     s  = " ".join(lst)
     return s
