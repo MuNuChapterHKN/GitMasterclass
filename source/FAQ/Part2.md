@@ -35,6 +35,7 @@ What is the measurement unit of bit-rate?
 
 ### FAQ032
 What is the measurement unit of power?
+The measurement unit of power is Watt.
 
 ### FAQ033
 What is the meaning of the GNSS acronym?
