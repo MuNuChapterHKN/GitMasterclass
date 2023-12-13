@@ -2,7 +2,7 @@ def logical_and(a: bool, b: bool) -> bool:
     """
     BUG041: logical_and should return True if both a and b are True, not if either of them is True.
     """
-    result = a or b
+    result = a and b
     return result
 
 
