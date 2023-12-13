@@ -89,7 +89,7 @@ def neg_value(a: int) -> int:
     '''
     BUG011: neg_value should return the negation of the value, not the value itself.
     '''
-    result = a
+    result = -a
     return result
 
 
