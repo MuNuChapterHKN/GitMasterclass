@@ -123,6 +123,7 @@ def strip_non_alphanumeric(s: str) -> str:
     BUG036: strip_non_alphanumeric should remove all non-alphanumeric characters, not just leading and trailing ones.
     """
     import re
+    
     result = re.sub(r'\W+', '', s)
     return result
 
