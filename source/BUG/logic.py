@@ -122,7 +122,7 @@ def is_valid_password(password: str) -> bool:
     """
     BUG056: is_valid_password should return True if the password length is greater than 8, not if it's not.
     """
-    result = len(password) < 8
+    result = len(password) > 8
     return result
 
 
