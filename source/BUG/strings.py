@@ -329,7 +329,7 @@ def test():
         s = "hello world"
         sub = "hello"
         result = substring_after(s, sub)
-        if result == "world":
+        if result == " world":
             print("BUG035: SOLVED SUCCESSFULLY")
         else:
             print("BUG035: RETRY")
