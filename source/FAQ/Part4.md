@@ -1,7 +1,7 @@
 # FAQ 061->080 - General and Miscellaneous
 
 ### FAQ061
-What does IEEE stands for?
+What does IEEE stands for? IEEE stands for "Institute of Electrical and Electronics Engineers"
 
 ### FAQ062
 What is the third planet in the solar system?
