@@ -82,7 +82,11 @@ def get_unique_elements(lst: list) -> list:
     """
     BUG071: get_unique_elements should return a list of unique elements, not the same list.
     """
-    result = lst
+    temp = []
+    for element in lst:
+        if element not in temp:
+            temp.append (element)
+    result = temp
     return result
 
 
