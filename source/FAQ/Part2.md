@@ -14,7 +14,7 @@ What does RGB stands for?
 
 ### FAQ025
 What is a boolean variable in programming?
-
+In programming, a boolean variable is a binary variable that can take only two values, either 1 or 0.
 ### FAQ026
 In programming, what does "debugging" mean?
 
