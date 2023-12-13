@@ -130,7 +130,7 @@ def is_alpha(s: str) -> bool:
     """
     BUG037: is_alpha should check if all characters in the string are alphabetic, not if the entire string is alphabetic.
     """
-    result = s.isnumeric()
+    result = s.isalpha()
     return result
 
 
