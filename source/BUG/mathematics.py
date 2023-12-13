@@ -97,7 +97,7 @@ def sin_value(a: float) -> float:
     '''
     BUG012: sin_value should return the sine of the value, not the cosine.
     '''
-    result = math.cos(a)
+    result = math.sin(a)
     return result
 
 
