@@ -11,6 +11,7 @@ What does the term "commit" mean in Git?
 
 ### FAQ004
 What is the role of the "git push" command in Git?
+to upload local repository content to a remote repository
 
 ### FAQ005
 How do you create a new branch in Git?
