@@ -50,7 +50,11 @@ def replace_substring(s: str, old_sub: str, new_sub: str) -> str:
     """
     BUG027: replace_substring should replace occurrences of old_sub with new_sub, not append new_sub.
     """
-    result = s + new_sub
+    result = s 
+    index=result.find(old_sub)
+    while index != -1:
+        result= result[:index] + new_sub + result[index+len(old_sub):]
+        index=result.find(old_sub)
     return result
 
 
