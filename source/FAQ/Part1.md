@@ -22,6 +22,7 @@ git checkout -b "branch name"
 
 ### FAQ006
 What does the "git pull" command do in Git?
+the git pull command puts the fetched files from the remote repository in the working directory
 
 ### FAQ007
 What does "version control" mean in the context of software development?
